@@ -39,13 +39,6 @@ Use simple Markdown-style formatting:
 
 ---
 
-## 🛠️ Installation (For Self-Hosting)
-1. Fork this repository.
-2. Enable **GitHub Pages** in your repository settings.
-3. Access your tool via `https://yourusername.github.io/repo-name/`.
-
----
-
 ## 📝 License
 This project is open-source. Feel free to use and modify it to suit your blogging needs.
 
